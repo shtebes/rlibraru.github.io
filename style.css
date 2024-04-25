@@ -1,0 +1,100 @@
+.header-logo {
+    display: flex;
+    height: 40.32px;
+    width: 160.8px;
+    margin-top: 0px;
+    margin-left: 50px;
+}
+.body{
+    margin: 0;
+    font-family: "Merriweather", serif;
+}
+.header-line {
+    margin-left: 10px;
+    padding-top: 40px;
+    display: flex;
+    align-items: center;
+    margin-right: 50px;
+}
+
+.tolya-item {
+    color: #000000;
+    text-decoration: none;
+    font-size: 23px;
+    font-weight: 600;
+    margin-left: 45px;
+
+    margin-right: 40px;
+}
+.poisk{
+    background-image: url(school.png);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 30px;
+}
+.button{
+    padding-top: 475px;
+    padding-left: 200px;
+}
+.mitya {
+    text-decoration: none;
+    color: #25272B;
+    font-size: 50px;
+    
+}
+.c10{
+    color:#ffffff;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: 600;
+    margin-left: 15px;
+}
+.pou{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    background-color: #C9E069;
+    height: 130px;
+    width:150px;
+    margin-left: 60px;
+}
+.uch-line{
+    display: flex;
+    padding-top: 40px;
+}
+.uch{
+    display: flex;
+    padding-top: 100px;
+    padding-left: 90px;
+    padding-right: 30px;
+    align-items: center;
+}
+.uch-item{
+    background-color: #8e6e53;
+    display: flex;
+    height: 380px;
+    width: 290px;
+    margin-left: 70px;
+    justify-content: center;
+}
+.podpis{
+    display: flex;
+    padding-left: 90px;
+    align-items: center;
+}
+.pod-item{
+    background-color:  #8e6e53;
+    height: 135px;
+    width: 280px;
+    margin-left: 70px;
+    padding-top: 10px;
+    padding-left: 10px;
+    color:#ffffff;
+    font-size: 18px;
+}
+.katal{
+    margin-left: 20px;
+    background-color: #E2EFFF;
+    width: 1300px;
+}
