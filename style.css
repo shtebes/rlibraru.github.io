@@ -33,15 +33,26 @@
     background-size: cover;
     margin-top: 30px;
 }
+.poisk2{
+    background-image: url(архив.png);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 30px;
+}
 .button{
     padding-top: 475px;
-    padding-left: 200px;
+    padding-left: 180px;
 }
 .mitya {
     text-decoration: none;
-    color: #25272B;
+    color: #535354;
     font-size: 50px;
-    
+}
+.mitya2 {
+    text-decoration: none;
+    color: #535354;
+    font-size: 50px;
 }
 .c10{
     color:#ffffff;
@@ -98,3 +109,10 @@
     background-color: #E2EFFF;
     width: 1300px;
 }
+.kont{
+    background-image: url(контакты.png);
+    height: 10vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
